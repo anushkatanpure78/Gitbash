@@ -1,6 +1,6 @@
 # Project 26: Masterchef Jr.
-Teriyaki Chicken Recipe
+ Chicken Recipe
 
-Made by Rishi Venkatesh
+Made by Anushka Tanpure
 
-Link: https://ethyx.github.io/PRO-C26/
+
